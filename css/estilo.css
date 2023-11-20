@@ -1,0 +1,161 @@
+@font-face {
+    font-family: Tealand;
+    src: url(../fontes/Tealand.ttf);
+}
+
+@font-face {
+    font-family: Valoon;
+    src: url(../fontes/Valoon.ttf);
+}
+
+body {
+    background-color: rgb(34, 34, 34);
+    color: aliceblue;
+    font-family: Valoon;
+    font-weight: normal;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+
+
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.title {
+    flex-direction: column;
+    line-height: 10px;
+
+
+}
+
+li {
+    display: inline-block;
+    margin: 20PX;
+}
+
+a {
+    color: white;
+    font-family: cursive;
+}
+
+a:hover {
+    color: #39A7FF;
+    transition: 0.3s all;
+
+}
+
+#baixe-ja-btn {
+    border: 2px solid #87C4FF;
+    padding: 10px;
+    border-radius: 15px;
+
+
+
+}
+
+#baixe-ja-btn {
+    font-family: cursive;
+
+
+}
+
+h1 {
+    flex-direction: column;
+    font-weight: 200;
+    line-height: 10px;
+    font-size: 60px;
+
+
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 10px;
+    font-family: Tealand;
+}
+
+span {
+    color: #00BDD5;
+}
+
+p {
+    line-height: 20px;
+    max-width: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.divtexto {
+    line-height: 20px;
+    max-width: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 2%;
+
+
+}
+
+.pzinho {
+    width: 80%;
+    text-align: justify;
+    margin-bottom: 2%;
+}
+
+.img {
+
+    float: left;
+    width: 30%;
+
+}
+
+
+h5 {
+    font-size: 25px;
+    line-height: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    color: #00A9FF;
+}
+
+
+h6 {
+    font-size: 20px;
+    line-height: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    color: rgb(250, 250, 250);
+}
+
+.imglim {
+    font-size: 22px;
+    line-height: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #00BDD5;
+    width: 300%SS
+    
+
+}
+
+.tarefas{
+
+.img{
+    width: 300%S
+    ;
+}
+
+}
